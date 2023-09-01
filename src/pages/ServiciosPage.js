@@ -28,7 +28,7 @@ const ServiciosPage = (props) => {
             <div className="section bg-light">
                 <div className="container">
                     <div className="row">
-                        <div className="col-6 col-lg-3" data-aos="fade-up" data-aos-delay="300">
+                        <div className="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="300">
                             <div className="box-feature mb-4">
                                 <span className="flaticon-house mb-4 d-block"></span>
                                 <h3 className="text-black mb-3 font-weight-bold">
@@ -42,7 +42,7 @@ const ServiciosPage = (props) => {
                                 <p><a href="#" className="learn-more">Leer más</a></p>
                             </div>
                         </div>
-                        <div className="col-6 col-lg-3" data-aos="fade-up" data-aos-delay="400">
+                        <div className="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="400">
                             <div className="box-feature mb-4">
                                 <span className="flaticon-house-2 mb-4 d-block-3"></span>
                                 <h3 className="text-black mb-3 font-weight-bold">Agentes mejor calificados</h3>
@@ -56,7 +56,7 @@ const ServiciosPage = (props) => {
                                 <p><a href="#" className="learn-more">Leer más</a></p>
                             </div>
                         </div>
-                        <div className="col-6 col-lg-3" data-aos="fade-up" data-aos-delay="500">
+                        <div className="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="500">
                             <div className="box-feature mb-4">
                                 <span className="flaticon-building mb-4 d-block"></span>
                                 <h3 className="text-black mb-3 font-weight-bold">
@@ -66,17 +66,6 @@ const ServiciosPage = (props) => {
                                     Desde apartamentos acogedores hasta lujosas casas con vistas impresionantes, ¡tenemos lo que necesitas
                                     para encontrar tu
                                     hogar perfecto!
-                                </p>
-                                <p><a href="#" className="learn-more">Leer más</a></p>
-                            </div>
-                        </div>
-                        <div className="col-6 col-lg-3" data-aos="fade-up" data-aos-delay="600">
-                            <div className="box-feature mb-4">
-                                <span className="flaticon-house-3 mb-4 d-block-1"></span>
-                                <h3 className="text-black mb-3 font-weight-bold">Propiedades en Alquiler</h3>
-                                <p className="text-black-50">
-                                    Desde apartamentos con vistas espectaculares hasta casas acogedoras en las mejores zonas, ¡nuestro equipo está listo
-                                    para ayudarte a encontrar tu próximo hogar!
                                 </p>
                                 <p><a href="#" className="learn-more">Leer más</a></p>
                             </div>
